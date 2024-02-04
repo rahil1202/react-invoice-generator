@@ -3,7 +3,7 @@
 Welcome to the React Invoice Generator, a powerful web application designed to streamline your invoicing process!
 
 ### Live Demo 🚀
-Check out the live demo [here](https://react-invoice-maker.netlify.app/)!
+Check out the live demo [here](https://invoice-maker-rahil1202.vercel.app/)!
 
 ### App Preview 📸
 ![Invoice Generator](https://i.ibb.co/3R5JQnv/invoice-generator.png)
@@ -14,7 +14,7 @@ To get started, follow these simple steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-invoice-generator.git
+   git clone https://github.com/rahil1202/invoice-generator.git
    cd react-invoice-generator
    ```
 
