@@ -3,7 +3,7 @@
 Welcome to the React Invoice Generator, a powerful web application designed to streamline your invoicing process!
 
 ### Live Demo 🚀
-Check out the live demo [here](https://invoice-maker-rahil1202.vercel.app/)!
+Check out the live demo [here](https://react-invoice-generator-rahil1202.vercel.app)!
 
 ### App Preview 📸
 ![Invoice Generator](https://i.ibb.co/3R5JQnv/invoice-generator.png)
